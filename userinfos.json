@@ -1,1 +1,32 @@
-
+{
+  "users": [
+    {
+      "username": "admin",
+      "security_level": "admin",
+      "joined_at": "25.06.2024",
+      "birthday": "05-03-2008",
+      "location": "Berlin, Germany",
+      "social_media": {
+        "discord": "example_discord",
+        "snapchat": "example_snapchat",
+        "tiktok": "example_tiktok",
+        "instagram": "example_instagram",
+        "twitter": "example_twitter"
+      }
+    },
+    {
+      "username": "Glaive",
+      "security_level": "member",
+      "joined_at": "27.06.2024",
+      "birthday": "----",
+      "location": "Berlin, Germany",
+      "social_media": {
+        "discord": "example_discord",
+        "snapchat": "example_snapchat",
+        "tiktok": "example_tiktok",
+        "instagram": "example_instagram",
+        "twitter": "example_twitter"
+      }
+    }
+  ]
+}
