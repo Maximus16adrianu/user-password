@@ -1,6 +1,21 @@
 {
   "users": [
     {
+      "username": "1",
+      "security_level": "visitor",
+      "joined_at": "----",
+      "birthday": "----",
+      "location": "----",
+      "info_about_myself": "This is the standard account option for those who prefer not to create an account.",
+      "social_media": {
+        "discord": "----",
+        "snapchat": "----",
+        "tiktok": "----",
+        "instagram": "----",
+        "twitter": "----"
+      }
+    },
+    {
       "username": "admin",
       "security_level": "admin",
       "joined_at": "25.06.2024",
