@@ -15,6 +15,20 @@
       }
     },
     {
+      "username": "Vana",
+      "security_level": "member",
+      "joined_at": "28.06.2024",
+      "birthday": "----",
+      "location": "----, Australia",
+      "social_media": {
+        "discord": "example_discord",
+        "snapchat": "example_snapchat",
+        "tiktok": "example_tiktok",
+        "instagram": "example_instagram",
+        "twitter": "example_twitter"
+      }
+    },
+    {
       "username": "Glaive",
       "security_level": "member",
       "joined_at": "27.06.2024",
